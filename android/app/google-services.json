@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "847179282259",
+    "project_id": "hometain-ryn77k",
+    "storage_bucket": "hometain-ryn77k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847179282259:android:7f503f09d0cef5127393a6",
+        "android_client_info": {
+          "package_name": "com.hometainCo.hometain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847179282259-9tt88q2s0l7k5u9275igfpur09rg52cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hometainCo.hometain",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "847179282259-kgm5dknlhfsd8k339l7kj7sojg0m7rnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Mv-hp_i330pdOU9eFOyZTIu1Dd727nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847179282259-kgm5dknlhfsd8k339l7kj7sojg0m7rnv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "847179282259-qfqjj7832bnnvir3goonnlqiqdokvhj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hometainCo.hometain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
